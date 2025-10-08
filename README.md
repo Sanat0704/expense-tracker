@@ -140,16 +140,3 @@ Displaying Monthly Summary stacked bar chart
 
 Bonus feature: category-wise monthly breakdown
 
-You can add your video file in the project folder, for example:
-
-expense-tracker/
-├── demo.mp4
-
-
-Include it in README.md like this:
-
-[Watch Demo Video](demo.mp4)
-
-
-
-On GitHub, clicking this link will allow viewers to download or play the video.
