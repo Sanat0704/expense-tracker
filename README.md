@@ -128,7 +128,7 @@ Monthly Summary Stacked Chart
 
 Video Demo (Optional)
 
-A 2–3 minute screen recording demonstrating the working application:
+A  screen recording demonstrating the working application: https://docs.google.com/videos/d/1WVnKB4l41dJ8LSX9dGvvVV0XizX4F_nXAWeSLvQ0n70/edit?usp=sharing
 
 Adding new expenses
 
